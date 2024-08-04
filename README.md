@@ -29,7 +29,7 @@
 <p><b>View Dashboard user</b></p>
 
 ![Create Reservasi](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/CreateReservasi.jpg?raw=true)
-<p><b>View Admin Surat Masuk</b></p>
+<p><b>Create Reservasi</b></p>
 
 ![Create Pembayaran](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/CreatePembayaran.jpg?raw=true)
 <p><b>Create Pembayaran</b></p>
@@ -42,3 +42,6 @@
 
 ![Create Harga Hari Ini](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/CreateHargaHariIni.jpg?raw=true)
 <p><b>Create Harga Hari Ini</b></p>
+
+![Create Customer](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/createCustomer.jpg?raw=true)
+<p><b>Create Customer</b></p>
