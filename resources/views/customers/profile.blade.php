@@ -1,0 +1,1 @@
+Welcome {{ $customers->NIK }} dengan nama {{ $customers->nama_customer }}
