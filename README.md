@@ -4,41 +4,41 @@
 ![LoginUser Image](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/LoginHotel.jpg?raw=true)
 <p><b>Login Hotel</b></p>
 
-![View User Kepala Surat](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_KepalaSurat.png?raw=true)
-<p><b>View User Kepala Surat</b></p>
+![View User reservasi](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/ViewReservasi.jpg?raw=true)
+<p><b>View User Reservasi</b></p>
 
-![View User Nama Tanda Tangan](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_NamaTandaTangan.png?raw=true)
-<p><b>View User Nama Tanda Tangan</b></p>
+![View User Pembayaran](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/ViewPembayaran.jpg?raw=true)
+<p><b>View User Pembayaran</b></p>
 
-![View User Surat Keluar](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_SuratKeluar.png?raw=true)
-<p><b>View User Surat Keluar</b></p>
+![View User Kamar ](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/ViewKamar.jpg?raw=true)
+<p><b>View User Kamar</b></p>
 
-![View User Surat Masuk](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_SuratMasuk.png?raw=true)
-<p><b>View User Surat Masuk</b></p>
+![View User Invoice](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/ViewInvoice.jpg?raw=true)
+<p><b>View User Invoice</b></p>
 
-![View Admin Users](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_Users.png?raw=true)
-<p><b>View Admin Users</b></p>
+![View Harga Hari ini](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/ViewHaragHariIni.jpg?raw=true)
+<p><b>View Harga Hari Ini</b></p>
 
-![View Admin Nama Tanda Tangan](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_NamaTandaTangan.png?raw=true)
-<p><b>View Admin Nama Tanda Tangan</b></p>
+![View Customer](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/ViewCustomer.jpg?raw=true)
+<p><b>View Admin Customer</b></p>
 
-![View Admin Kepala Surat](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_KepalaSurat.png?raw=true)
-<p><b>View Admin Kepala Surat</b></p>
+![View Register User](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/RegisterHotel.jpg?raw=true)
+<p><b>View Admin Register User</b></p>
 
-![View Admin Surat Keluar](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_SuratKeluar.png?raw=true)
-<p><b>View Admin Surat Keluar</b></p>
+![View Dashboard user](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/DashboardHotel.jpg?raw=true)
+<p><b>View Dashboard user</b></p>
 
-![View Admin Surat Masuk](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_SuratMasuk.png?raw=true)
+![Create Reservasi](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/CreateReservasi.jpg?raw=true)
 <p><b>View Admin Surat Masuk</b></p>
 
-![View Admin Create Nama Tanda Tangan](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_CreateNamaTandaTangan.png?raw=true)
-<p><b>View Admin Create Nama Tanda Tangan</b></p>
+![Create Pembayaran](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/CreatePembayaran.jpg?raw=true)
+<p><b>Create Pembayaran</b></p>
 
-![View Admin Create Kepala Surat](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_CreateKepalaSurat.png?raw=true)
-<p><b>View Admin Create Kepala Surat</b></p>
+![Create Kamar](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/CreateKamar.jpg?raw=true)
+<p><b>Create Kamar</b></p>
 
-![View Admin Create Surat Keluar](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_CreateSuratKeluar.png?raw=true)
-<p><b>View Admin Create Surat Keluar</b></p>
+![Create Invoice](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/CreateInvoice.jpg?raw=true)
+<p><b>Create Invoice</b></p>
 
-![View Admin Create Surat Masuk](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_CreateSuratMasuk.png?raw=true)
-<p><b>View Admin Create Surat Masuk</b></p>
+![Create Harga Hari Ini](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/CreateHargaHariIni.jpg?raw=true)
+<p><b>Create Harga Hari Ini</b></p>
