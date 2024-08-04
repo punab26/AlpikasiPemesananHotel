@@ -1,4 +1,4 @@
-![Welcome Image](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/welcome.png?raw=true)
+![Welcome Image](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/welcomeHotel.jpg?raw=true)
 <p><b>Tampilan Welcome</b></p>
 
 ![LoginUser Image](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/LoginUser.png?raw=true)
