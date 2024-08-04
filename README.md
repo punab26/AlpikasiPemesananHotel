@@ -1,8 +1,8 @@
 ![Welcome Image](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/welcomeHotel.jpg?raw=true)
 <p><b>Tampilan Welcome</b></p>
 
-![LoginUser Image](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/LoginUser.png?raw=true)
-<p><b>Login User</b></p>
+![LoginUser Image](https://github.com/punab26/AlpikasiPemesananHotel/blob/main/resources/views/SS%20PBKK/LoginHotel.jpg?raw=true)
+<p><b>Login Hotel</b></p>
 
 ![View User Kepala Surat](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_KepalaSurat.png?raw=true)
 <p><b>View User Kepala Surat</b></p>
